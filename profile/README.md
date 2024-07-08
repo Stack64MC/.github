@@ -1,4 +1,4 @@
-## Hiya, we're Stack64! <img src="https://github.com/Stack64MC/.github/blob/main/profile/Stack64Logo-Rev1.png?raw=true" data-canonical-src="https://github.com/Stack64MC/.github/blob/main/profile/Stack64Logo-Rev1.png?raw=true" width="80" height="80" />
+## Hiya, we're Stack64! <img src="https://github.com/Stack64MC/.github/blob/main/profile/Stack64Logo-Rev1.png?raw=true" data-canonical-src="https://github.com/Stack64MC/.github/blob/main/profile/Stack64Logo-Rev1.png?raw=true" width="40" height="40" />
 
 Stack64 is a project that aims to create an easy-to-use stack for Minecraft Spigot servers that want Bedrock Console cross-play.
 
